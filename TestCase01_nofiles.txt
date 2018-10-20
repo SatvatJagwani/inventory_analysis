@@ -1,0 +1,10 @@
+0.25
+8
+Downloads\Products_26_10.csv
+Downloads\Products_20_10.csv
+Downloads\Products_14_10.csv
+Downloads\Products_08_10.csv
+Downloads\Products_02_10.csv
+Downloads\Products_26_09.csv
+Downloads\Products_20_09.csv
+Downloads\Products_14_09.csv

@@ -1,0 +1,12 @@
+0.1
+10
+Downloads\shiftdressesdata\Products_Shift_26_10.csv
+Downloads\shiftdressesdata\Products_Shift_26_09.csv
+Downloads\shiftdressesdata\Products_Shift_26_08.csv
+Downloads\shiftdressesdata\Products_Shift_26_07.csv
+Downloads\shiftdressesdata\Products_Shift_26_06.csv
+Downloads\shiftdressesdata\Products_Shift_26_05.csv
+Downloads\shiftdressesdata\Products_Shift_26_04.csv
+Downloads\shiftdressesdata\Products_Shift_26_03.csv
+Downloads\shiftdressesdata\Products_Shift_26_02.csv
+Downloads\shiftdressesdata\Products_Shift_26_01.csv
